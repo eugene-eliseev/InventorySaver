@@ -1,0 +1,7 @@
+name: InventorySaver
+main: ru.greatray.invsaver.Main
+version: 1.0
+author: LordBekket
+depend: [PowerNBT, ShoppingCartReloaded]
+commands:
+  invsaver:
